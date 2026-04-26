@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @JohanWidding
-- 👀 I’m interested in making life easy
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m interested in making life easy
